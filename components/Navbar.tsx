@@ -20,6 +20,10 @@ const navbar = () => {
           </Link>
         ))}
       </ul>
+      <div className="lg:flexCenter hidden">
+          <button>CLICK ME</button>
+      </div>
+
     </nav>
   )
 }
