@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 type ButtonProps = {
     type: 'button' | 'submit';
     title: string;
@@ -8,9 +10,10 @@ type ButtonProps = {
 const Button = ({ type, title, icon, variant}: ButtonProps) => {
   return (
     <button
-        type="button"
+        type={type}
     >
-        Log In
+        {icon && <Image src={icon} alt={title} width={24} height={24} />}
+        <label>{title}</label>
     </button>
   )
 }
