@@ -1,6 +1,8 @@
 // Nav bar & footer go in this layout file
+import Navbar from '@/components/Navbar'
 import './globals.css'
 import type { Metadata } from 'next'
+import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   // title of my application below
@@ -16,7 +18,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <Navbar />
         {children}
+        <Footer />
         </body>
     </html>
   )
