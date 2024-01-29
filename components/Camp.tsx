@@ -71,7 +71,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+          Starting from the thrill of riding new trails, the possibility of getting lost is very real. That's why we're here for mountain bikers who want to start an adventure. With our app guiding your ride, you can push your limits exploring backcountry terrain with the confidence of knowing where you are. Just point your wheels to that singletrack through the woods - we'll make sure you can find your way back after an epic day of riding new trails.
           </p>
           <Image 
             src="/quote.svg"

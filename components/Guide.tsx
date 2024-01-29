@@ -10,8 +10,8 @@ const Guide = () => {
           We are here for you
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Ride With Confidence</h2>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">With the TrailFinder app, you'll never lose the trail again, thanks to our offline GPS trail maps that guide you even when there's no cell service in the backcountry. Invite your riding crew and have a blast together exploring winding singletracks, rugged hill climbs, and scenic back roads. TrailFinder will lead you to new outdoor adventures across the best mountain biking destinations. Discover epic trails and conquer technical terrain with confidence, knowing our app has your back from the first pedal to the mountain summit. Ride on!</p>
         </div>
       </div>
 
