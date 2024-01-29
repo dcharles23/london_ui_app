@@ -48,8 +48,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/dcharles23/london_ui_app.git
-cd london_ui_app
+git clone https://github.com/dcharles23/trailfinders_app.git
+cd trailfinders_app
 ```
 
 **Installation**
